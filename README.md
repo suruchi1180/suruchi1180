@@ -1,12 +1,10 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...
-)](https://github.com/suruchi1180)
+
 
 <h1 align="center">Hi 👋, I'm km Suruchi Srivastava</h1>
 <h3 align="center">Learner looking for Opportunities and Leads.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suruchi1180&label=Profile%20views&color=0e75b6&style=flat" alt="suruchi1180" /> </p>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif
-")
+(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5507196-women-who-code&psig=AOvVaw2bOZIp04ISWjLlCPF81cjl&ust=1634325409910000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCjkOLOyvMCFQAAAAAdAAAAABAg")
 
 
 - 🌱 I’m currently learning **Advance DSA and Algorithm**
