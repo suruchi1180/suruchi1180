@@ -4,8 +4,7 @@
 <h3 align="center">Learner looking for Opportunities and Leads.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suruchi1180&label=Profile%20views&color=0e75b6&style=flat" alt="suruchi1180" /> </p>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5507196-women-who-code&psig=AOvVaw2bOZIp04ISWjLlCPF81cjl&ust=1634325409910000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCjkOLOyvMCFQAAAAAdAAAAABAg")
-
+(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/f5/b0/45/f5b045627b6c125e500fc02f42d79763.jpg")
 
 - 🌱 I’m currently learning **Advance DSA and Algorithm**
 
